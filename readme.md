@@ -4,7 +4,7 @@ Love Scheme! <3
 
 The idea for this Kata came from @ecomba's Kata in Ruby...
 
-	http://katas.softwarecraftsmanship.org/?p=21
+http://katas.softwarecraftsmanship.org/?p=21
 
 Run the unit test using the Gambit Scheme Interpreter
 
@@ -12,12 +12,12 @@ Run the unit test using the Gambit Scheme Interpreter
 
 You can download Gambit here...
 
-	http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page
+http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page
 
 Dr Racket also a good Scheme IDE + Interpreter.
 Remark: I have a problem loading external files using the load function under OS X Lion.
 
-	http://racket-lang.org/
+http://racket-lang.org/
 
 ## Licence
 
