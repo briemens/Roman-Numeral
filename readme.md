@@ -14,7 +14,7 @@ You can download Gambit here...
 
 http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page
 
-Dr Racket also a good Scheme IDE + Interpreter.
+Dr Racket is also a good Scheme IDE + Interpreter.
 Remark: I have a problem loading external files using the load function under OS X Lion.
 
 http://racket-lang.org/
